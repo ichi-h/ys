@@ -1,4 +1,4 @@
-# This is  copy of https://gist.github.com/ysmood/6110461
+# This is a copy of https://gist.github.com/ysmood/6110461
 
 # Clean, simple, compatible and meaningful.
 # Tested on Linux, Unix and Windows under ANSI colors.
